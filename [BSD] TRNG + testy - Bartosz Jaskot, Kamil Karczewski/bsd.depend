@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1586533583 source:c:\users\szote\desktop\projektbsd\bsd\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1601080004 source:c:\users\szote\desktop\studia sem.6\projektbsd\[bsd] trng bartosz jaskot, kamil karczewski\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<math.h>
+
